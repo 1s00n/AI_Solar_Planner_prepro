@@ -28,10 +28,10 @@
 - ML TensorFlow
 
 ## 📚 อ้างอิงข้อมูล (References)
-1. NASA POWER Project. (n.d.). *NASA Prediction of Worldwide Energy 
+- NASA POWER Project. (n.d.). *NASA Prediction of Worldwide Energy 
    Resources (POWER)*. NASA Langley Research Center. 
    Retrieved from https://power.larc.nasa.gov/
-2.Streamlit Inc. (n.d.). *Streamlit Documentation*. 
+-Streamlit Inc. (n.d.). *Streamlit Documentation*. 
    Retrieved from https://docs.streamlit.io/
-3.Python Visualization. (n.d.). *Folium Documentation*.
+-Python Visualization. (n.d.). *Folium Documentation*.
    Retrieved from https://python-visualization.github.io/folium/

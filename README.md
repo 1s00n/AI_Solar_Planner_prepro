@@ -11,3 +11,27 @@
 - [ ] วิเคราะห์ปัจจัยที่ส่งผลต่อศักยภาพการติดตั้งโซลาร์เซลล์ (พื้นที่, ทิศทาง, การบังเงา)
 - [ ] คำนวณและแสดงผลคะแนนความเหมาะสมเป็นแผนที่
 - [ ] คาดการณ์การผลิตไฟฟ้าและระยะเวลาคืนทุน
+
+## 🔍 ขอบเขตของโปรเจกต์ (Scope)
+- รับ input พื้นที่/ทิศทางหลังคาจากผู้ใช้
+- ใช้ข้อมูลรังสีแสงอาทิตย์จาก API
+- คำนวณคะแนนความเหมาะสมด้วยสูตรทางฟิสิกส์
+- การวิเคราะห์ภาพถ่ายดาวเทียม/โดรนด้วย Computer Vision
+- ระบบแนะนำยี่ห้อ/รุ่นแผงโซลาร์
+
+## 🛠️ เทคโนโลยีที่ใช้ (Tech Stack)
+- Frontend + Backend  [Streamlit](https://streamlit.io/) (Python) 
+- Data Source [NASA POWER API](https://power.larc.nasa.gov/)
+- Data Processing  Pandas, NumPy 
+- Visualization (Chart)  Streamlit built-in charts / Plotly 
+- Visualization (Map)  [Folium](https://python-visualization.github.io/folium/) 
+- ML TensorFlow
+
+## 📚 อ้างอิงข้อมูล (References)
+1. NASA POWER Project. (n.d.). *NASA Prediction of Worldwide Energy 
+   Resources (POWER)*. NASA Langley Research Center. 
+   Retrieved from https://power.larc.nasa.gov/
+2.Streamlit Inc. (n.d.). *Streamlit Documentation*. 
+   Retrieved from https://docs.streamlit.io/
+3.Python Visualization. (n.d.). *Folium Documentation*.
+   Retrieved from https://python-visualization.github.io/folium/
